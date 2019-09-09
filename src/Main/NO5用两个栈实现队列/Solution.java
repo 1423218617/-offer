@@ -1,4 +1,4 @@
-package Main.NO4用两个栈实现队列;
+package Main.NO5用两个栈实现队列;
 
 import java.util.Stack;
 
