@@ -1,4 +1,4 @@
-package Main.NO20包含min函数的栈;
+package Main.NO21包含min函数的栈;
 
 import java.util.Stack;
 
